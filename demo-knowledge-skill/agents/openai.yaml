@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: "Demo Knowledge Skill"
+  short_description: "TODO: one-line summary"
+  default_prompt: "Use demo-knowledge-skill to complete this task."
